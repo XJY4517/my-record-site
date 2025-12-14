@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default defineConfig({base: '/my-record-site/'
+  
   title: "我的日常记录",
   description: "记录每日饮食，训练等琐事",
   themeConfig: {
