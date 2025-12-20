@@ -1,0 +1,1 @@
+import{_ as e,c as d,o as r,ae as a}from"./chunks/framework.BQlYxExx.js";const f=JSON.parse('{"title":"我的日常记录站","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"};function i(o,t,n,s,m,p){return r(),d("div",null,[...t[0]||(t[0]=[a("",4)])])}const c=e(l,[["render",i]]);export{f as __pageData,c as default};
